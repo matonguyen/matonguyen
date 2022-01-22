@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @matonguyen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-matonguyen/matonguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning SQL, Python, etc. relating to business information system
+- 💞️ I am looking for experienced people to have their instructions
+- 📫 Contact me via IG @mato_not_coco or email "mato.nguyen@gmail.com
