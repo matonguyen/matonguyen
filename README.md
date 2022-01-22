@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning SQL, Python, etc. relating to business information system
 - 💞️ I am looking for experienced people to have their instructions
-- 📫 Contact me via IG @mato_not_coco or email "mato.nguyen@gmail.com
+- 📫 Contact me via IG @mato_not_coco or email "mato.nguyen@gmail.com"
